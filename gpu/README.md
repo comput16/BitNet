@@ -1,4 +1,7 @@
-# BitNet Inference Kernel
+this is only for testing done my me 
+sorry for interferance 
+i don't have any changes to make this is good website 
+BitNet Inference Kernel
 
 This repository provides a highly efficient GEMV kernel implementation for the BitNet model, optimized for W2A8 inference — 2-bit weights and 8-bit activations. It is tailored for use with the [BitNet-b1.58-2B-4T](https://arxiv.org/abs/2504.12285) model.
 
